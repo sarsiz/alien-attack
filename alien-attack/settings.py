@@ -1,5 +1,5 @@
 class Settings():
-    """A class to store all the settings for the Alien Invasion"""
+    """A class to store all the settings for the Alien Invasion."""
     def __init__(self):
         """Initialize the game's settings."""
         self.screen_width = 1200
